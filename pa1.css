@@ -1,0 +1,63 @@
+.navbar{
+    box-shadow:2px 5px grey;
+   width:300vh;
+   height:7vh;
+   z-index:1;
+   position:fixed ;
+   top:0;
+   grid-area:navbar;
+   position:fixed;
+   background-color:white;
+   }
+   span{
+       color:black;
+       width:100vh;  
+       margin-left:4vh; 
+       text-shadow:2px 2px 2px black;
+   }
+
+
+.hari{
+   display:flex;
+   justify-content:space-between;
+
+}
+.loki{
+   margin-left:1vh;
+   margin-top:1vh;
+   justify-content:left ;
+}
+
+
+p{
+   font-size:smaller;
+   margin-left:-0vh;
+}
+
+.vk{
+   display:flex;
+   gap:15%;
+   margin-left: 10px;
+}
+.ms{
+   display:flex;
+   justify-content:space-evenly;
+   gap: 40px;
+}
+
+
+.gill button{
+   justify-content:space-between;
+   margin-left:2vh;
+   gap: 20%;
+   
+}
+h1{
+   text-shadow:2px 2px 2px black;
+}
+.vinay{
+    width: 1500px;
+    height: 500px; 
+    margin-top: 15px;
+    margin-left: 2px;
+}
